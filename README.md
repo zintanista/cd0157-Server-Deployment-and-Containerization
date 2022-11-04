@@ -88,5 +88,5 @@ Completing the project involves several steps:
 For more detail about each of these steps, see the project lesson.
 
 ## Should have .env_file  file within your repo  containing the following:
-JWT_SECRET= 'myjwtsecret' or any related 'secret'
-LOG_LEVEL=DEBUG
+- JWT_SECRET= 'myjwtsecret' or any related 'secret'
+- LOG_LEVEL=DEBUG
